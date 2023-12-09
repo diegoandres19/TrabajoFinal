@@ -15,6 +15,15 @@ data = [
     ("Recordatorio: Pago de la factura de electricidad mañana", "no_spam"),
     ("Hola, Carlos. ¿Cómo estás?", "no_spam"),
     ("caac", "no_spam"),
+    ("¡Felicidades! Has ganado un millón de dólares", "spam"),
+    ("Venta exclusiva: solo por hoy, descuentos del 70%", "spam"),
+    ("Actualización importante: nueva versión del software disponible", "no_spam"),
+    ("¡Tu préstamo ha sido aprobado! Obtén efectivo rápido", "spam"),
+    ("Recordatorio de reunión: mañana a las 10 am", "no_spam"),
+    ("¡Gana un viaje todo incluido! Participa ahora", "spam"),
+    ("Promoción especial para clientes leales", "spam"),
+    ("Informe mensual de ventas disponible para revisión", "no_spam"),
+    ("Descarga gratuita: software antivirus premium", "spam"),
 ]
 
 #PROCESAR TEXTO
